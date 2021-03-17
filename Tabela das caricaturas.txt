@@ -1,0 +1,187 @@
+<!DOCTYPE html>
+<html>
+<head>
+<link rel="preconnect" href="https://fonts.gstatic.com">
+<link href="https://fonts.googleapis.com/css2?family=Roboto&display=swap" rel="stylesheet">
+<link rel="preconnect" href="https://fonts.gstatic.com">
+<link href="https://fonts.googleapis.com/css2?family=Lobster&display=swap" rel="stylesheet">
+<title>Caricaturas 12º2ª</title>
+<style>
+a:link {
+  color: #F1D26A;
+  background-color: transparent;
+  text-decoration: none;
+}
+a:visited {
+  color: #F1D26A;
+  background-color: transparent;
+  text-decoration: none;
+}
+a:hover {
+  color: #F1D26A;
+  background-color: transparent;
+  text-decoration: underline;
+}
+a:active {
+  color: #F1D26A;
+  background-color: transparent;
+  text-decoration: underline;
+}
+.font {
+  color: #131316;
+}
+header {
+  font-size: 25px;
+  border-bottom: 3px solid #FFF9BB ; 
+  width: 100%;
+  height: 100%;
+  background-color: #F1D26A;
+  text-align: center;
+}
+body {
+ font-family: 'Lobster', cursive;
+ background-color:#F3F4F7;
+ width: 100%;
+ height: 100%;
+ margin: 0px;
+}
+table, th, td { 
+    border: 3px solid #F1D26A;
+	border-collapse: collapse;
+	padding: 25px;
+	text-align: center;
+	background: #FFFEEB;
+}
+footer{
+  font-size; 1px;
+  font-family: 'Roboto', sans-serif;
+  border-top: 3px solid #F3F4F7 ; 
+  width: 100%;
+  height: 100%;
+  background-color: #B3B4BC;
+  text-align: center-left;
+  }
+.txt { align: center-left;
+ font-family: 'Roboto', sans-serif;
+ color: #131316;
+}
+</style>
+</head>
+<body>
+<header>
+<br>
+<h1 class="font">Caricaturas 12º2ª</h1>
+</header>
+<div  style="text-align: center">
+<br>
+</div>
+<center>
+<table>
+<tr>
+<th><a href="Alunos/1.Afonso%20Kirkby/Site01.html">
+<img border="0" src="Caricatura Irfan 75x100.jpg" width="90" height="120">
+</a>
+</th>
+<th><a href="Alunos/2.Afonso%20Teixeira/Site02.html">
+<img border="0" src="Afonso Imagem pequena.jpg" width="90" height="120">
+</a></th>
+<th><a href="Alunos/3.André%20Pita/Site03.html">
+<img border="0" src="75-100.jpg" width="90" height="120">
+</a></th>
+<th><a href="Alunos/4.André%20Mota/site04.html">
+<img border="0" src="caricatura(75x100).jpg" width="90" height="120">
+</a></th>
+<th><a href="Alunos/5.Angêlo%20Cardoso/site05.html">
+<img border="0" src="5.Ângelo-Cardoso formato pequeno.jpg" width="90" height="120">
+</a></th>
+<th><a href="Alunos/6.Bernardo%20Bernardes/site06.html">
+<img border="0" src="bernardo bernardes.jpg" width="90" height="120">
+</a></th>
+<th><a href="Alunos/7.Daniel%20Zayika/site07.html">
+<img border="0" src="Caricaturaf34peq.jpg" width="90" height="120">
+</a></th>
+<th><a href="Alunos/8.Diogo%20Figueiredo/site08.html">
+<img border="0" src="diogofigueiredoformatopequeno.jpg" width="90" height="120">
+</a></th>
+<th><a href="Alunos/9.Diogo%20Martins/site09.html">
+<img border="0" src="NA" width="90" height="120">
+</a></th>
+</tr>
+
+<tr>
+<th><a href="Alunos/10.Diogo%20Agulheiro/site10.html">
+<img border="0" src="Untitled-1 - Copy (2) - Copy.jpg" width="90" height="120">
+</a></th>
+<th><a href="Alunos/12.Francisco%20Mendes/site11.html">
+<img border="0" src="possível final high res Cropped.jpg" width="90" height="120">
+</a></th>
+<th><a href="Alunos/13.Guilherme%20Marques/site12.html">
+<img border="0" src="NA" width="90" height="120">
+</a></th>
+<th><a href="Alunos/14.Guilherme%20Marcello/site13.html">
+<img border="0" src="caricatura2.jpg" width="90" height="120">
+</a></th>
+<th><a href="Alunos/15.Gustavo%20Telhada/site14.html">
+<img border="0" src="Caricatura_Gustavo_Telhada_12º2  75x100.png" width="90" height="120">
+</a></th>
+<th><a href="Alunos/16.Haojie%20Huang/site15.html">
+<img border="0" src="caricaturav.final normal10075.jpg" width="90" height="120">
+</a></th>
+<th><a href="Alunos/17.João%20Fidalgo/site16.html">
+<img border="0" src="17 - PT03 - Caricatura vf 75_100.jpg" width="90" height="120">
+</a></th>
+<th><a href="Alunos/18.João%20Gonçalves/site17.html">
+<img border="0" src="18.João Gonçalves[Formato pequeno].jpg" width="90" height="120">
+</a></th>
+<th><a href="Alunos/19.José%20Silva/site18.html">
+<img border="0" src="Caricatura Zé 75x100.jpg" width="90" height="120">
+</a></th>
+</tr>
+
+<tr>
+<th><a href="Alunos/20.Luís%20Canossa/site19.html">
+<img border="0" src="20.jpg" width="90" height="120">
+</a></th>
+<th><a href="Alunos/22.Manuel%20Vizoso/site20.html">
+<img border="0" src="pequena.png" width="90" height="120">
+</a></th>
+<th><a href="Alunos/23.Mariana%20Azevedo/site21.html">
+<img border="0" src="Caricatura final-75x100.jpg" width="90" height="120">
+</a></th>
+<th><a href="Alunos/24.Miguel%20Lorga/site22.html">
+<img border="0" src="miguel lorga nº24 (2).jpg" width="90" height="120">
+</a></th>
+<th><a href="Alunos/25.Rodrigo%20Simões/site23.html">
+<img border="0" src="caricatura75x100.jpg" width="90" height="120">
+</a></th>
+<th><a href="Alunos/26.Tiago%20Farinha/site24.html">
+<img border="0" src="Tiago Farinha n26 - Formato Pequeno (75x100).jpg" width="90" height="120">
+</a></th>
+<th><a href="Alunos/27.Tomás%20Perdigão/site25.html">
+<img border="0" src="27. Tomás Perdigão [GustaTrolei] 3.jpg" width="90" height="120">
+</a></th>
+<th><a href="Alunos/28.Luís%20Oliveira/site26.html">
+<img border="0" src="VFINALpequeno.jpg" width="90" height="120">
+</a></th>
+<th><a href="Alunos/29.Vasco%20Samuel/site27.html">
+<img border="0" src="PT03FinalP.jpg" width="90" height="120">
+</a></th>
+</tr>
+
+</table>
+</center>
+<br>
+<br>
+<footer>
+<br>
+<p class="txt"><b>Links externos:</b></p>
+<ul>
+<li ><a href="https://sites.google.com/professor.aebenfica.pt/aib-20-21/pts/PT07"> Enunciado da PT05</a></li>
+<li><a href="https://basb55.github.io/">A minha githubpage</a></li>
+<li><a href="https://github.com/basb55">Repositório github</a></li>
+<li><a href="https://sites.google.com/aluno.aebenfica.pt/portefolio-bernardo-bernardes/a-caverna">Portefólio de AIB</a></li>
+</ul>
+<br>
+</footer>
+</body>
+</html>

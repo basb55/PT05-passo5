@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>André Pita</title>
+<style>
+body {
+ background-color: #131316;
+ margin: 0;
+}
+</style>
+</head>
+<div style="text-align: center">
+<body>
+<img src="900-1200.jpg" width="600" height="800">
+</body>
+</div>
+</html>

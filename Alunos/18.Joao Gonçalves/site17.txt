@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>João Gonçalves</title>
+<style>
+body {
+ background-color: #131316;
+ margin: 0;
+}
+</style>
+</head>
+<div style="text-align: center">
+<body>
+<img src="18.João Gonçalves[Formato grande].jpg" width="600" height="800">
+</body>
+</div>
+</html>
