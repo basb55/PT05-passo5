@@ -11,7 +11,7 @@ body {
 </head>
 <div style="text-align: center">
 <body>
-<img src="Aindapopor" width="600" height="800">
+<img src="Caricatura.jpg" width="600" height="800">
 </body>
 </div>
 </html>
