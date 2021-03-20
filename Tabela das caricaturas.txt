@@ -116,7 +116,7 @@ footer{
 <img border="0" src="possível final high res Cropped.jpg" width="90" height="120">
 </a></th>
 <th><a href="Alunos/13.Guilherme%20Marques/site12.html">
-<img border="0" src="NA" width="90" height="120">
+<img border="0" src="Caricaturap.jpg" width="90" height="120">
 </a></th>
 <th><a href="Alunos/14.Guilherme%20Marcello/site13.html">
 <img border="0" src="caricatura2.jpg" width="90" height="120">
